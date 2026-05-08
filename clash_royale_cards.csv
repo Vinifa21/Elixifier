@@ -1,0 +1,80 @@
+Card,Cost,HP,DPS,Range,Count,Has_SplashDamage,Is_Air
+Archers,3,304,118,5.0,2,0,0
+Archer Queen,5,1000,187,5.0,1,0,0
+Baby Dragon,4,1152,107,3.5,1,1,1
+Balloon,5,1679,320,0.10 ,1,0,1
+Bandit,3,906,194,0.75 ,1,0,0
+Barbarians,5,670,147,0.70 ,5,0,0
+Bats,2,81,62,1.2 ,5,0,1
+Battle Healer,4,1717,98,1.6 ,1,0,0
+Battle Ram,4,967,286,0.50,1,0,0
+Berserker,2,896,204,0.80 ,1,0,0
+Bomber,2,332,125,4.5,1,1,0
+Boss Bandit,6,2803,223,0.80 ,1,0,0
+Bowler,5,2081,115,4.0,1,1,0
+Cannon Cart,5,1730,236,5.5,1,0,0
+Dark Prince,4,1440,190,1.2 ,1,1,0
+Dart Goblin,3,261,190,6.5,1,0,0
+Electro Dragon,5,949,91,3.5,1,1,1
+Electro Giant,7,3855,77,1.2 ,1,1,0
+Electro Spirit,1,230,99,2.5,1,1,0
+Electro Wizard,4,714,126,5.0,1,1,0
+Elite Barbarians,6,1341,274,1.2 ,2,0,0
+Executioner,5,1280,140,4.5 ,1,1,0
+Firecracker,3,304,106,6.0 ,1,1,0
+Fire Spirit,1,230,207,2.5,1,1,0
+Fisherman,3,870,149,1.2,1,0,0
+Flying Machine,4,614,155,6.0 ,1,0,1
+Giant,5,4090,168,1.2,1,0,0
+Giant Skeleton,6,3617,190,0.80,1,1,0
+Goblin Gang,3,167,78,5.5,6,0,0
+Goblin Demolisher,4,1300,155,5.0,1,1,0
+Goblin Giant,6,3233,164,1.2,1,0,0
+Goblin Machine,5,2304,176,1.2,1,1,0
+Goblins,2,202,109,0.50,4,0,0
+Golden Knight,4,1799,178,1.2,1,0,0
+Golem,8,7198,124,0.75,1,0,0
+Guards,3,337,117,1.6 ,3,0,0
+Hog Rider,4,1697,198,0.80 ,1,0,0
+Heal Spirit,1,230,110,2.5,1,0,0
+Ice Golem,2,1198,33,0.75 ,1,0,0
+Ice Spirit,1,230,110,2.5,1,1,0
+Ice Wizard,3,688,52,5.5,1,1,0
+Knight,3,1766,168,1.2 ,1,0,0
+Lava Hound,7,4883,47,3.5,1,0,1
+Lumberjack,4,1282,320,0.70,1,0,0
+Magic Archer,4,529,120,7.0,1,1,0
+Mega Knight,7,3993,157,1.2 ,1,1,0
+Mega Minion,3,837,207,1.6 ,1,0,1
+Miner,3,1210,161,1.2 ,1,0,0
+Mini P.E.K.K.A.,4,1361,471,0.80 ,1,0,0
+Minion Horde,5,230,117,1.6 ,6,0,1
+Minions,3,230,117,1.6 ,3,0,1
+Monk,5,2150,175,1.2 ,1,0,0
+Mother Witch,4,529,133,5.5,1,0,0
+Musketeer,4,721,217,6.0 ,1,0,0
+Night Witch,4,906,241,1.6 ,1,0,0
+P.E.K.K.A.,7,3760,453,1.2,1,0,0
+Phoenix,4,1052,217,1.6 ,1,0,1
+Prince,5,1920,279,1.6 ,1,0,0
+Princess,3,261,56,9.0,1,1,0
+Ram Rider,5,1697,147,0.80,1,0,0
+Royal Ghost,3,1210,145,1.2,1,1,0
+Royal Giant,6,3164,180,5.0,1,0,0
+Royal Hogs,5,837,61,0.70,4,0,0
+Royal Recruits,7,787,102,1.6,6,0,0
+Rune Giant,4,2508,80,1.2,1,0,0
+Skeleton Army,3,81,81,0.50,15,0,0
+Skeleton Barrel,3,532,145,0.35,1,0,1
+Skeleton Dragons,4,560,84,3.5,2,1,1
+Skeleton King,4,2298,127,1.2,1,1,0
+Skeletons,1,81,81,0.50,3,0,0
+Sparky,6,1451,332,5.0,1,1,0
+Spear Goblins,2,133,47,5.5,3,0,0
+Suspicious Bush,2,304,182,0.80,2,0,0
+Three Musketeers,9,721,217,6.0 ,3,0,0
+Valkyrie,4,1907,177,1.2,1,1,0
+Wall Breakers,2,330,391,0.50,2,0,0
+Witch,5,839,122,5.5,1,1,0
+Wizard,5,755,200,5.5,1,1,0
+Zappies,4,529,55,4.5,3,0,0
